@@ -1,7 +1,5 @@
 /***
-/*  Made with Love
-/*  Hasan Aydın ©
-/*  www.hasanaydins.com
+/*  www.facebook.com/kenbyne
 /***/
 
 import React, { useEffect, useState } from 'react';
